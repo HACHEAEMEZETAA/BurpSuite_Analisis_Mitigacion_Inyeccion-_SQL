@@ -1,6 +1,6 @@
 # 🏆 Descubrimiento de BurpSuite: Análisis y Mitigación de la Inyección SQL (SQLi)
 
-Esta actividad documenta el proceso completo de **identificación, explotación y mitigación** de una vulnerabilidad de **Inyección SQL (SQLi)** en un entorno de laboratorio controlado con Docker. La herramienta principal utilizada para la fase de explotación y análisis de peticiones fue **BurpSuite Community Edition**.
+Esta proyecto documenta el proceso completo de **identificación, explotación y mitigación** de una vulnerabilidad de **Inyección SQL (SQLi)** en un entorno de laboratorio controlado con Docker. La herramienta principal utilizada para la fase de explotación y análisis de peticiones fue **BurpSuite Community Edition**.
 
 ## 🚀 Arquitectura y Entorno de Pruebas
 
